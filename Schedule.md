@@ -4,7 +4,8 @@
 
 | Date | Link to Class Material | Link to Homework | Due |
 |------|------------------------|------------------|-----|
-| W Aug 28 |[Approaching Problems](./Week1-ApproachingProblems/)|||
+| F Aug 30 |[Approaching Problems](./Week1-ApproachingProblems/)|||
+| F Sept 06 |[Approaching Problems](./Week1-ApproachingProblems/)|||
 
 ## Week 2 - Computer Skills I
 
