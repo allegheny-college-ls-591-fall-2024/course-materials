@@ -2,6 +2,20 @@
 
 ## LS 591 Computational Skills and Problem Solving
 
+- Module A
+- 2 Credits
+- Friday 2:45-4:30 (8/27/2024 - 10/15/2024)
+- Add/drop deadline September 9 at 12 pm
+
+### Instructors
+
+- Morgan Green, Office: Alden 209
+  - office hours
+
+- Emily Graber, Office: Alden 106
+  - office hours by appointment on [Google Calendar](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
+
+
 ## Description
 
 This 2-credit course is designed to refresh topics foundational
@@ -24,10 +38,26 @@ in computer and information science and related fields.
 
 ## Schedule Outline
 
-- Week 1 - Approaching Problems
-- Week 2 - Computer Skills I
-- Week 3 - Computer Skills II
-- Week 4 - Logical Reasoning I
-- Week 5 - Logical Reasoning II
-- Week 6 - Mathematical Operations I
+- Week 1 - Sept 6 - Approaching Problems
+- Week 2 - Sept 13 - Computer Skills I
+- Week 3 - Sept 20 - Computer Skills II
+- Week 4 - Sept 27 - Logical Reasoning I
+- Week 5 - Oct 04 - Logical Reasoning II
+- Week 6 - Oct 18 - Mathematical Operations I
 - Week 7 - Mathematical Operations II
+
+## Resources
+
+## Grading
+
+Credit/No Credit. Grades will be determined based on participation. Participation
+includes asking questions in class, completing in-class group activities, completing
+individual work outside of class, writing short reflections weekly, and attendance.
+
+## Additional Policies
+
+Absences
+Honor Code
+Seeking Assistance
+Educational Accommodations
+
