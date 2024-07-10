@@ -2,19 +2,18 @@
 
 ## LS 591 Computational Skills and Problem Solving
 
-- Module A
-- 2 Credits
-- Friday 2:45-4:30 (8/27/2024 - 10/15/2024)
-- Add/drop deadline September 9 at 12 pm
+Module A (8/27/2024 - 10/15/2024)  
+2 Credits  
+Fridays 2:45-4:30 PM  
+Alden XYZ  
 
 ### Instructors
 
-- Morgan Green, Office: Alden 209
-  - office hours
+Morgan Green, Office: Alden 209  
+office hours
 
-- Emily Graber, Office: Alden 106
-  - office hours by appointment on [Google Calendar](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
-
+Emily Graber, Office: Alden 106  
+office hours by appointment on [Google Calendar](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
 
 ## Description
 
@@ -56,6 +55,7 @@ individual work outside of class, writing short reflections weekly, and attendan
 
 ## Additional Policies
 
+Add/drop deadline September 9 at 12 pm
 Absences
 Honor Code
 Seeking Assistance
