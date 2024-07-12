@@ -28,12 +28,12 @@ identification, and algebra-based logic for computational problems.
 Hands-on learning activities will contribute to team-building and
 practice widely-applicable strategies for reasoning. Students will
 receive individualized support, maximizing opportunities for success
-in computer and information science and related fields. 
+in computer and information science and related fields.
 
 ## Learning Outcomes
 
 1. navigate computer with graphical and text-based tools
-2. identify hierarchical/sequential structure within computational problems
+2. identify hierarchical and sequential structure within computational problems
 3. describe processes/strategies for computational problem solving
 4. describe and use fundamental computational operators
 5. implement algebra-based logic/strategies/skills in computational problems
@@ -41,9 +41,10 @@ in computer and information science and related fields.
 ## Topics
 
 - file hierarchy and navigation, terminal usage, typing (LO 1)
-- making explicit the steps needed for accomplishing task (LO 2, LO 3)
+- making explicit the steps needed for accomplishing given task (LO 2, LO 3)
+- describe the processes and strategies employed for computational problem solving (REMOVE LO 3?)
 - Arithmetic, algebra, geometry, estimation / back-of-the-envelope calculations (LO 4, LO 5)
-- Establish good practices
+- Establish good practices (SHOULD THIS BE LO?)
   - search for and use resources
   - when and how to ask question
   - how to take notes
@@ -58,6 +59,37 @@ in computer and information science and related fields.
 - Week 5 - Oct 04 - Logical Reasoning II
 - Week 6 - Oct 18 - Mathematical Operations I
 - Week 7 - XXXXX - Mathematical Operations II
+
+## Schedule Outline
+
+- Week 1 - Sept 6 - Approaching Problems
+  
+  - Activity 1 - back-of-the-envelope estimation - group activity - 
+  - Activity 2 - acronym competition - via google form
+
+- Week 2 - Sept 13 - Computer Skills I
+  - Activity 3 - physical files
+  - Activity 4 - command your files
+
+
+- Week 3 - Sept 20 - Computer Skills II
+  - Activity 5 - typing tones
+  - Activity 6 - Wikipedia races
+
+- Week 4 - Sept 27 - Logical Reasoning I
+  - Activity 7 - Peanut butter sandwiches
+  - Activity 8 - Scratch code drawing steps
+
+- Week 5 - Oct 04 - Logical Reasoning II
+  - Activity 9 - Scavenger hunt/task exchange
+
+- Week 6 - Oct 18 - Mathematical Operations I
+  - Activity 10 - Scratch code efficiency (math version?)
+  - Activity 11 - Jeopardy
+  - make problem set for middle schoolers
+
+- Week 7 - XXXXX - Mathematical Operations II
+  - 
 
 ## Resources
 
@@ -79,7 +111,6 @@ will automatically result in a failing grade.
 Add/drop deadline September 9 at 12 pm
 
 
-### Seeking Assistance
 
 ### Effective Collaboration
 
@@ -90,7 +121,13 @@ encourages students to engage in collaboration. However, in the context of
 individual coursework, through which each student must demonstrate their own
 knowledge, there are certain forms of collaboration that are and are not
 acceptable. Follow the instructions given on activities and assignments regarding
-collaboration.
+acceptable collaboration.
+
+GTP, and other AI language model usage online or offline is not permitted.
+
+### Seeking Assistance
+
+Students may seek assistance from their peers, Discord, TLs, instructors.
 
 ### Honor Code
 
