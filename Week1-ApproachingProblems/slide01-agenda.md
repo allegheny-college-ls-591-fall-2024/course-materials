@@ -11,4 +11,4 @@
 
 ---
 
-Slide 1 | [Next -->](./slide02-courseoverview)
+Slide 1 | [Next -->](./slide02-courseoverview.md)

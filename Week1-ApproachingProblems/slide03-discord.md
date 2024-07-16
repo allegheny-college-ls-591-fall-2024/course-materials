@@ -24,4 +24,4 @@ Create a bookmark in your browser to the Discord Channel for LS 591
 
 ---
 
-[<-- Previous Slide](./slide02-courseoverview) | Slide 3 | [Next Slide -->](./slide04-github.md)
+[<-- Previous Slide](./slide02-courseoverview.md) | Slide 3 | [Next Slide -->](./slide04-github.md)
