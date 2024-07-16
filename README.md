@@ -4,7 +4,7 @@
 
 Fall 2024  
 Module A (8/27/2024 - 10/15/2024)  
-2 Credits  
+2 Credits - pass/fail  
 Fridays 2:45-4:30 PM  
 Alden XYZ  
 
@@ -33,65 +33,46 @@ in computer and information science and related fields.
 ## Learning Outcomes
 
 1. navigate computer with graphical and text-based tools
-2. identify hierarchical and sequential structure within computational problems
-3. describe processes/strategies for computational problem solving
-4. describe and use fundamental computational operators
-5. implement algebra-based logic/strategies/skills in computational problems
-
-## Topics
-
-- file hierarchy and navigation, terminal usage, typing (LO 1)
-- making explicit the steps needed for accomplishing given task (LO 2, LO 3)
-- describe the processes and strategies employed for computational problem solving (REMOVE LO 3?)
-- Arithmetic, algebra, geometry, estimation / back-of-the-envelope calculations (LO 4, LO 5)
-- Establish good practices (SHOULD THIS BE LO?)
-  - search for and use resources
-  - when and how to ask question
-  - how to take notes
-  - how to pattern match
+2. solve computational problems with hierarchical and sequential structures
+3. identify and evaluate resources for troubleshooting computational problems
+4. describe and use mathematical operators and algebra-based logic in computational problems
 
 ## Schedule Outline
 
-- Week 1 - Sept 6 - Approaching Problems
-- Week 2 - Sept 13 - Computer Skills I
-- Week 3 - Sept 20 - Computer Skills II
-- Week 4 - Sept 27 - Logical Reasoning I
-- Week 5 - Oct 04 - Logical Reasoning II
-- Week 6 - Oct 18 - Mathematical Operations I
-- Week 7 - XXXXX - Mathematical Operations II
+- Week 1 - Aug 30 - Approaching Problems
+- Week 2 - Sept 6 - Computer Skills I
+- Week 3 - Sept 13 - Computer Skills II
+- Week 4 - Sept 20 - Logical Reasoning I
+- Week 5 - Sept 27 - Logical Reasoning II
+- Week 6 - Oct 4 - Mathematical Operations
 
-## Schedule Outline
+## Activities
 
-- Week 1 - Sept 6 - Approaching Problems
-  
-  - Activity 1 - back-of-the-envelope estimation - group activity - 
-  - Activity 2 - acronym competition - via google form
+- Activity 1 - pizza problems (LO 4)
+- Activity 2 - estimation (LO 2, LO 4)
+- Activity 3 - physical files (LO 1)
+- Activity 4 - command your files (LO 1)
+- Activity 5 - typing tones (LO 1)
+- Activity 6 - Wikipedia races (LO 3)
+- Activity 7 - Peanut butter sandwiches (LO 2)
+- Activity 8 - Scratch code (drawing version)
+- Activity 9 - Scavenger hunt/task exchange
+- Activity 10 - Scratch code efficiency (math version)
+- Activity 11 - Jeopardy
 
-- Week 2 - Sept 13 - Computer Skills I
-  - Activity 3 - physical files
-  - Activity 4 - command your files
+XXX
 
-
-- Week 3 - Sept 20 - Computer Skills II
-  - Activity 5 - typing tones
-  - Activity 6 - Wikipedia races
-
-- Week 4 - Sept 27 - Logical Reasoning I
-  - Activity 7 - Peanut butter sandwiches
-  - Activity 8 - Scratch code drawing steps
-
-- Week 5 - Oct 04 - Logical Reasoning II
-  - Activity 9 - Scavenger hunt/task exchange
-
-- Week 6 - Oct 18 - Mathematical Operations I
-  - Activity 10 - Scratch code efficiency (math version?)
-  - Activity 11 - Jeopardy
-  - make problem set for middle schoolers
-
-- Week 7 - XXXXX - Mathematical Operations II
-  - 
+- asking/answering pair with typing
+- how to pattern match (LO 2, 3, 4)
+- make problem set for middle schoolers
 
 ## Resources
+
+- [Discord]()
+- [GitHub](https://github.com/allegheny-college-ls-591-fall-2024) -
+  `https://github.com/allegheny-college-ls-591-fall-2024`
+- [Videos](https://docs.google.com/presentation/d/106-7jqreOpa_cDKEp-1g5BMoANwMnRBejTjEIE6qxOM/preview) -
+  `https://docs.google.com/presentation/d/106-7jqreOpa_cDKEp-1g5BMoANwMnRBejTjEIE6qxOM/preview`
 
 ## Grading
 
@@ -101,16 +82,33 @@ individual work outside of class, writing short reflections weekly, and attendan
 
 ## Additional Policies
 
-### Discord
+### Discord and GitHub
+
+Discord and GitHub are required.
+
+Discord is used to:
+
+- receive announcements about this course
+- ask questions to instructors and colleagues
+- answer questions collaboratively
+- provide a log of past questions/answers for reference
+- receive announcements about TL (technical leader) office hours
+- help you stay in touch with alumni who often offer internship and job opportunities!
+  
+GitHub is used for:
+
+- File sharing, storage, display (and more...)
+- Everyone in LS 591 will be able to view and download files from the
+  [course GitHub page](https://github.com/allegheny-college-ls-591-fall-2024)
+- The files are organized according to activities
+- GitHub is used in all CIS department courses at Allegheny College
+
+Please ensure your GitHub account is made using your Allegheny email address.  
 
 ### Absences
 
 Absences will be excused following the department guidelines. More than XX unexcused absences
 will automatically result in a failing grade.
-
-Add/drop deadline September 9 at 12 pm
-
-
 
 ### Effective Collaboration
 
@@ -136,7 +134,7 @@ responsibility and integrity in academic affairs. Each student pledges the follo
 “I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor
 Code, and to maintain the integrity of both myself and the College community as a whole.”
 Suspected Honor Code violations will be discussed with those involved and reported. Please see
-https://sites.allegheny.edu/studentsuccess/academic-honor-program/ for more details.
+`https://sites.allegheny.edu/studentsuccess/academic-honor-program/` for more details.
 
 ### Educational Accommodations
 
@@ -145,4 +143,11 @@ encouraged to contact Student Accessibility and Support Services (SASS) at
 (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier
 Library.  Please do this as soon as possible to ensure that such accommodations are
 implemented in a timely fashion. Please see
-https://sites.allegheny.edu/studentaccessibility/ for more details.
+`https://sites.allegheny.edu/studentaccessibility/` for more details.
+
+### Other
+
+Successfully completing this course (LS 591) will give you
+
+- guaranteed slot in CMPSC 100 next semester
+- one extra homework token for CMPSC 100
