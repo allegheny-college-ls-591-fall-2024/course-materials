@@ -1,20 +1,10 @@
 # Schedule
 
-## Week 1 - Approaching Problems
-
-| Date | Link to Class Material | Link to Homework | Due |
-|------|------------------------|------------------|-----|
-| F Aug 30 |[Approaching Problems](./Week1-ApproachingProblems/)|||
-| F Sept 06 |[Approaching Problems](./Week1-ApproachingProblems/)|||
-
-## Week 2 - Computer Skills I
-
-## Week 3 - Computer Skills II
-
-## Week 4 - Logical Reasoning I
-
-## Week 5 - Logical Reasoning II
-
-## Week 6 - Mathematical Operations I
-
-## Week 7 - Mathematical Operations II
+| Date | Topic | Link to Class Material | Link to Homework |
+|------|-------|------------------------|------------------|
+| F Aug 30 | Week 1 </br> Approaching Problems|[Slides](./Week1-ApproachingProblems/) </br> [Activity 1]() </br> [Activity 2]()|[Video (12 minutes)](https://docs.google.com/presentation/d/106-7jqreOpa_cDKEp-1g5BMoANwMnRBejTjEIE6qxOM/preview?rm=minimal&slide=2)||
+| F Sept 6 | Week 2 </br>  Computer Skills I |||
+| F Sept 13 | Week 3 </br>  Computer Skills II |||
+| F Sept 20 | Week 4 </br>  Logical Reasoning I |||
+| F Sept 27 | Week 5 </br>  Logical Reasoning II |||
+| F Oct 4 | Week 6 </br>  Mathematical Operations |||
