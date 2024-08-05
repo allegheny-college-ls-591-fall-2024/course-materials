@@ -9,4 +9,4 @@ When you are finished with this activity, your Trinket should look like a minima
 5. Can you change another variable's **value** to make the color of the eyes and mouth look more like a classic emoji? 
 6. Once you've made all these changes, one eye color is still out of place! Can you fix this by applying one of the first two varables to the rogue eye's color property? 
 7. When you are done, save your work!
-8. Turn in your work by clicking the Share ![image-20240805135635928](shareTree.png)button, then clicking Link and copying the link. Paste your link into the [Google Form]() and turn it in! 
+8. Turn in your work by clicking the Share ![image-20240805135635928](shareTree.png)button, then clicking Link and copying the link. Paste your link into the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdPI14b0T6Tfs20--UHmcSS9Vk4ortx4vzZcLoVU1QX6gvfgw/viewform?usp=sf_link) and turn it in! 
