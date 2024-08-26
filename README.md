@@ -12,7 +12,7 @@ Alden 101
 
 Morgan Green, Office: Alden 209  
 email: mgreen@allegheny.edu  
-office hours: 
+office hours: by appointment on [Google Calendar](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP)
 
 Emily Graber, Office: Alden 106  
 email: egraber@allegheny.edu  
