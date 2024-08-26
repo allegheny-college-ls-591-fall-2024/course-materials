@@ -16,11 +16,10 @@ Create an account
 
 - `https://discord.com/login`
 - Please ensure your Discord Name is your name or Allegheny username.  
-- Accept the [invitation to the LS 591 course](XXXX)
+- Accept the [invitation to the LS 591 course](https://discord.gg/YxNsV6hq)
 
 Create a bookmark in your browser to the Discord Channel for LS 591
-
-- `https://discord`
+- `https://discord.com/channels/877320365825749002/1277712021944537101`
 
 ---
 
