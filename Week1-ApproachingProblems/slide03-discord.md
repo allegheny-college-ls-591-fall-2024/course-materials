@@ -19,7 +19,7 @@ Create an account
 - Accept the [invitation to the LS 591 course](https://discord.gg/YxNsV6hq)
 
 Create a bookmark in your browser to the Discord Channel for LS 591
-- `https://discord.com/channels/877320365825749002/1277712021944537101`
+- [`https://discord.com/channels/877320365825749002/1277712021944537101`](https://discord.com/channels/877320365825749002/1277712021944537101)
 
 ---
 
