@@ -42,23 +42,18 @@ in computer and information science and related fields.
 - Week 1 - Aug 30 - Approaching Problems
 - Week 2 - Sept 6 - Computer Skills I
 - Week 3 - Sept 13 - Computer Skills II
-- Week 4 - Sept 20 - Logical Reasoning I
-- Week 5 - Sept 27 - Logical Reasoning II
+- Week 4 - Sept 20 - Blue & Gold Panel Talk
+- Week 5 - Sept 27 - Logical Reasoning
 - Week 6 - Oct 4 - Mathematical Operations
 
 ## Activities
 
-- Activity 1 - pizza problems (LO 4)
-- Activity 2 - estimation (LO 2, LO 4)
-- Activity 3 - physical files (LO 1)
-- Activity 4 - command your files (LO 1)
-- Activity 5 - typing tones (LO 1)
-- Activity 6 - Wikipedia races (LO 3)
-- Activity 7 - Peanut butter sandwiches (LO 2)
-- Activity 8 - Scratch code (drawing version)
-- Activity 9 - Scavenger hunt/task exchange
-- Activity 10 - Scratch code efficiency (math version)
-- Activity 11 - Jeopardy
+- Activity 1 - estimation (LO 2, LO 4)
+- Activity 2 - file (LO 1)
+- Activity 3 - typing + searching (LO 1, L0 3)
+- Activity 4 - Attend Blue & Gold Panel Talk
+- Activity 5 - PB&J sandwiches + scavenger hunt (LO 2)
+- Activity 6 - Jeopardy
 
 XXX
 
