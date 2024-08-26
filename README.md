@@ -1,18 +1,18 @@
 # Syllabus
 
-## LS 591.XX Computational Skills and Problem Solving
+## LS 591.A1 Computational Skills and Problem Solving
 
 Fall 2024  
 Module A (8/27/2024 - 10/15/2024)  
 2 Credits - pass/fail  
 Fridays 2:45-4:30 PM  
-Alden XYZ  
+Alden 101  
 
 ### Instructors
 
 Morgan Green, Office: Alden 209  
 email: mgreen@allegheny.edu  
-office hours:
+office hours: 
 
 Emily Graber, Office: Alden 106  
 email: egraber@allegheny.edu  

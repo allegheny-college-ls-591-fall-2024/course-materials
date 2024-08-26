@@ -3,7 +3,8 @@
 
 # Agenda
 
-- Pizza, Handouts, & Course Overview
+- Pizza
+- Departmental Values, Course Overview
 - Preliminary business (Discord Access, GitHub Accounts)
 - Group Activities & Discussion
 - Acronym Challenge
@@ -11,4 +12,4 @@
 
 ---
 
-Slide 1 | [Next -->](./slide02-courseoverview.md)
+Slide 0 | [Next -->](./slide01-values.md)
