@@ -68,12 +68,13 @@ Successfully completing this course will give you:
   `https://discord.com/channels/877320365825749002/1277712021944537101`
 - [GitHub](https://github.com/allegheny-college-ls-591-fall-2024) -
   `https://github.com/allegheny-college-ls-591-fall-2024`
+- [Video Links](/video-links.md)
 
 ## Grading
 
 Credit/No Credit. Grades will be determined based on participation. Participation
-includes attendance, asking questions in class, completing in-class group activities, completing
-individual work outside of class such as writing short reflections weekly.
+includes attendance, asking questions in class, completing in-class group activities,
+taking notes, and completing individual work outside of class such as writing short reflections.
 
 ## Additional Policies
 
