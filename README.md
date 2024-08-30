@@ -37,43 +37,43 @@ in computer and information science and related fields.
 3. identify and evaluate resources for troubleshooting computational problems
 4. describe and use mathematical operators and algebra-based logic in computational problems
 
+### Other Outcomes
+
+Successfully completing this course will give you:
+
+- guaranteed slot in CMPSC 100 next semester
+- one extra homework token for CMPSC 100
+
 ## Schedule Outline
 
-- Week 1 - Aug 30 - Approaching Problems
-- Week 2 - Sept 6 - Computer Skills I
-- Week 3 - Sept 13 - Computer Skills II
+- Week 1 - Aug 30 - [Approaching Problems](/Week1-ApproachingProblems/)
+- Week 2 - Sept 6 - [File Systems](/Week2-FileSystems/)
+- Week 3 - Sept 13 - [Computer Skills](/Week3-ComputerSkills/)
 - Week 4 - Sept 20 - Blue & Gold Panel Talk
-- Week 5 - Sept 27 - Logical Reasoning
-- Week 6 - Oct 4 - Mathematical Operations
+- Week 5 - Sept 27 - [Logical Reasoning](/Week5-LogicalReasoning/)
+- Week 6 - Oct 4 - [Mathematical Operations](/Week6-MathematicalOperations/)
 
 ## Activities
 
-- Activity 1 - estimation (LO 2, LO 4)
-- Activity 2 - file (LO 1)
-- Activity 3 - typing + searching (LO 1, L0 3)
-- Activity 4 - Attend Blue & Gold Panel Talk
-- Activity 5 - PB&J sandwiches + scavenger hunt (LO 2)
-- Activity 6 - Jeopardy
-
-XXX
-
-- asking/answering pair with typing
-- how to pattern match (LO 2, 3, 4)
-- make problem set for middle schoolers
+- Activity 1 - [Estimation (LO 2, LO 4)](/Week1-ApproachingProblems/activity-estimation/)
+- Activity 2 - [Files (LO 1)](/Week2-FileSystems/activity-files/)
+- Activity 3 - [Typing + Searching (LO 1, L0 3)](/Week3-ComputerSkills/activity-type+search/)
+- Activity 4 - Blue & Gold Panel Talk
+- Activity 5 - [PB&J sandwiches + Scavenger Hunt (LO 2)](/Week5-LogicalReasoning/activity-scavengerhunt/)
+- Activity 6 - [Jeopardy (LO 4)](/Week6-MathematicalOperations/activity-jeopardy/)
 
 ## Resources
 
-- [Discord]()
+- [Discord](https://discord.com/channels/877320365825749002/1277712021944537101) -
+  `https://discord.com/channels/877320365825749002/1277712021944537101`
 - [GitHub](https://github.com/allegheny-college-ls-591-fall-2024) -
   `https://github.com/allegheny-college-ls-591-fall-2024`
-- [Videos](https://docs.google.com/presentation/d/106-7jqreOpa_cDKEp-1g5BMoANwMnRBejTjEIE6qxOM/preview) -
-  `https://docs.google.com/presentation/d/106-7jqreOpa_cDKEp-1g5BMoANwMnRBejTjEIE6qxOM/preview`
 
 ## Grading
 
 Credit/No Credit. Grades will be determined based on participation. Participation
-includes asking questions in class, completing in-class group activities, completing
-individual work outside of class, writing short reflections weekly, and attendance.
+includes attendance, asking questions in class, completing in-class group activities, completing
+individual work outside of class such as writing short reflections weekly.
 
 ## Additional Policies
 
@@ -102,21 +102,14 @@ Please ensure your GitHub account is made using your Allegheny email address.
 
 ### Absences
 
-Absences will be excused following the department guidelines. More than XX unexcused absences
-will automatically result in a failing grade.
+Due to the short nature of the course, more than 1 absence
+will automatically result in a failing grade except in extenuating circumstances.
+Please talk to the instructors if you have further questions.
 
 ### Effective Collaboration
 
-Computer science is an inherently collaborative discipline. People must work
-together to produce large, complex, and ultimately useful software systems.
-Because of this, the Department of Computer and Information Science at Allegheny College
-encourages students to engage in collaboration. However, in the context of
-individual coursework, through which each student must demonstrate their own
-knowledge, there are certain forms of collaboration that are and are not
-acceptable. Follow the instructions given on activities and assignments regarding
-acceptable collaboration.
-
-GTP, and other AI language model usage online or offline is not permitted.
+We encourage building community by collaborating with others to solve
+the problems presented in this course.
 
 ### Seeking Assistance
 
@@ -140,9 +133,7 @@ Library.  Please do this as soon as possible to ensure that such accommodations 
 implemented in a timely fashion. Please see
 `https://sites.allegheny.edu/studentaccessibility/` for more details.
 
-### Other
+### Syllabus Changes
 
-Successfully completing this course (LS 591) will give you
-
-- guaranteed slot in CMPSC 100 next semester
-- one extra homework token for CMPSC 100
+Updates to this document may be made as needed by the instructors, but any changes will be
+announced to the class.
