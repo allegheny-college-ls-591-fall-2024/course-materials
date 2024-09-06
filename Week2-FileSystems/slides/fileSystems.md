@@ -9,7 +9,7 @@
 
 ## File Hierarchies
 
-- [File systems](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/command-line-files/06_fileSytems.md)
+- [Visual Explanation](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/command-line-files/06_fileSytems.md)
 
 ### Terms
 
@@ -23,6 +23,7 @@
 
 #### Hands On
 
-#### Computer 
+Mario characters reference
 
-TODO: Possibly make a video that explains file maniupation on multiple systems (Terminal, VSCode, different file explorers) 
+![image](https://github.com/user-attachments/assets/ed639bf7-be76-40ed-9290-f6c9444565f4)
+
