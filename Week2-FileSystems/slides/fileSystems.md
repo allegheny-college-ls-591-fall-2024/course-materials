@@ -9,7 +9,7 @@
 
 ## File Hierarchies
 
-TODO: Update slides from 100
+- [File systems](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/command-line-files/06_fileSytems.md)
 
 ### Terms
 
