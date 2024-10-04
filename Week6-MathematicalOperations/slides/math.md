@@ -14,12 +14,14 @@ Note, this is not python syntax
 
 Opposite of powers.
 
-- `2<sup>3</sup>` is 8
-- `log<sub>2</sub>(8)` is 3
+- $2^3$ is 8
+- $log_{2}(8)$ is 3
 
 In the example above the base is 2.
 
 Personally, I like to think about logarithms as the number of times the base can be divided out of the number until 1 is reached.
+
+- $log_{2}(8)$
 
 1. 8 divided by 2 is 4
 2. 4 divided by 2 is 2
@@ -27,7 +29,7 @@ Personally, I like to think about logarithms as the number of times the base can
 
 It took 3 divisions by 2 to get down to 1.
 
-- `log<sub>10</sub>(10000)`
+- $log_{10}(10000)$
   
 1. 10000 divided by 10 is 1000
 2. 1000 divided by 10 is 100

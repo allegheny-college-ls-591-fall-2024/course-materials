@@ -31,7 +31,7 @@ Places for the digits in binary are multiples of 2
 In binary, the number 1101 indicates:
 
 - 1 * 8
-- 1 * 4 
+- 1 * 4
 - 0 * 2
 - 1 * 1
 - add everything together!
