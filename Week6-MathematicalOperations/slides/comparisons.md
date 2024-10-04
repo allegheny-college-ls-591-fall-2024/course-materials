@@ -27,4 +27,4 @@ If a comparison works out favorably, then we can say it is True! If a comparison
 
 ---
 
-[<--prev](./operators+variables.md) | Comparisons | [next-->](./bases.md)
+[<--prev](./operators+variables.md) | Comparisons | [next-->](./math.md)

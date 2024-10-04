@@ -66,8 +66,8 @@ Hexadecimal is commonly used to represent digital information.
 ## Warning
 
 The number basis or base (like base 2, base 3) is NOT the same as "log base 2"...
-See Operators slide for more info on logarithms.
+See math slide for more info on logarithms.
 
 ---
 
-[<--prev](./comparisons.md) | Bases | [next-->](../activity-jeopardy/board.md)
+[<--prev](./math.md) | Bases | [next-->](../activity-jeopardy/board.md)

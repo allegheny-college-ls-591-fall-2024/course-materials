@@ -10,3 +10,5 @@
 - review comparisons
 - explore numeric bases (time permitting)
 - play Jeopardy!
+
+Intro | [next-->](./variables.md)
