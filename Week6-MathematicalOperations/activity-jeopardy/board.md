@@ -16,6 +16,7 @@
 
 - Paper and calculators and notes may be used, but no code or python
 - The instructors can provide help, but then we get half the points!
-- Finished questions will be marked on the board
-- Team scores will be marked on the board
-- Instructor scores will be marked on the board
+- Buzz in once your team has an answer - https://www.multibuzz.app/
+- Finished questions will be marked on the whiteboard
+- Team scores will be marked on the whiteboard
+- Instructor scores will be marked on the whiteboard
