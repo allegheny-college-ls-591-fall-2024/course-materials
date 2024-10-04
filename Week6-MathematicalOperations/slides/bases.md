@@ -2,6 +2,11 @@
 
 ---
 
+## Warning
+
+The number basis or base is NOT the same as "log base 2"...
+See [math slide](./math.md) for more info on logarithms.
+
 ## Decimal
 
 Decimal is our normal number/counting system in base 10 with digits 0-9. Places for the digits in
@@ -62,11 +67,6 @@ Hexadecimal is commonly used to represent digital information.
 - what is the largest digit in decimal (base 10)?
 - what is the largest digit in base 3?
 - what base number is Hex?
-
-## Warning
-
-The number basis or base (like base 2, base 3) is NOT the same as "log base 2"...
-See math slide for more info on logarithms.
 
 ---
 
