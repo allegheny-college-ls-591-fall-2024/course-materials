@@ -12,7 +12,7 @@ decimal are multiples of 10.
 In decimal, the number 1101 indicates:
 
 - 1 * 1000
-- 1 * 100 
+- 1 * 100
 - 0 * 10
 - 1 * 1
 - add everything together!
@@ -45,7 +45,7 @@ Places for the digits in base 3 are multiples of 3
 In base 3, the number 1101 indicates:
 
 - 1 * 27
-- 1 * 9 
+- 1 * 9
 - 0 * 3
 - 1 * 1
 - add everything together!
@@ -70,4 +70,4 @@ See Operators slide for more info on logarithms.
 
 ---
 
-[<--prev]() | Bases | [next-->]()
+[<--prev](./comparisons.md) | Bases | [next-->](../activity-jeopardy/board.md)
